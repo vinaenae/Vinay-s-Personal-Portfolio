@@ -1,14 +1,14 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
+date: '2023-05-01'
+title: 'Purdue Moonshot Pitch Challenge Finalist'
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://youtu.be/XVVtSWsN-iU'
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - Indoor Intelligence
+  - Transformer Network
+  -
+company: 'Purdue Innovates'
 showInProjects: false
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Prototyped ChairCARE, an indoor navigation system that provides support for disabled individuals in large spaces through intelligent indoor routing.

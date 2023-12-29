@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Maximum Entropy Deep Inverse Reinforcement Learning for Human Social Navigation'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://dagshub.com/ML-Purdue/hackathonf23-Stacks'
+external: 'https://drive.google.com/file/d/1Ud4husXegrcooQWrjyjaH6UPsevW_7Su/view'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Deep Learning
+  - TensorFlow
+  - MLFlow
+  - DVC
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Blindly reproduced a Maximum Entropy Deep Learning model for Human Social Navigation in TensorFlow with trajectories accurate within 0.5 meters, and connducted five in-depth ablation studies to understand the impact of various model components like learning rate, state dimensions, and network layers. Received second place at the ML@Purdue X DagsHub ML Hackathon.

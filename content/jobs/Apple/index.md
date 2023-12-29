@@ -1,13 +1,11 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
+date: '2023-10-01'
+title: 'Software Engineering Intern'
+company: 'AirconAI'
+location: 'Dallas, TX'
+range: 'October 2023 - Present'
 url: 'https://www.apple.com/music/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Utilized Large Language Models (LLMs) in the context of logistics to enhance international shipment operations and foster customer relations within the CargoWise integrated logistics platform at Aircon AI.
+- Trained and integrated a custom mail bot to automatically provide shipment updates, inventory checks, and customer relations.

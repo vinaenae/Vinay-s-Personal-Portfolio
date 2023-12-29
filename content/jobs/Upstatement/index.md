@@ -1,13 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
+date: '2023-11-01'
+title: 'Undergraduate Researcher'
+company: 'SCALE Researcher in ML Optimization for Microelectronics'
+location: 'Purdue University, West Lafayette, IN'
+range: 'November 2023 - Present'
 url: 'https://www.upstatement.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Developing Machine Learning models to optimize Microelectronics through US Department of Defense funded Scalable Asymmetric Lifecycle Engagement program
+- Leveraged reinforcement learning to automate and refine microelectronic circuit layouts, achieving notable improvements in power efficiency and processing speed.
+- Implemented a groundbreaking machine learning framework for real-time fault detection, substantially increasing the reliability and lifespan of microelectronic devices.

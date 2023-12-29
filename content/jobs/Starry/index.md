@@ -1,12 +1,11 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
+date: '2023-11-01'
+title: 'Undergraduate Researcher'
+company: 'VIP Child Automated Speech-to-Text Team'
+location: 'Purdue University, West Lafayette, IN'
+range: 'November 2023 - Present'
 url: 'https://starry.com/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Creating speech-to-text machine learning model that accurately transcribes speech of 3-to-5 year old children using Python, TensorFlow, & PF2A.
+- Developed Hidden Markov Model (HMM) architectures with Deep Neural Networks (DNN) to predict phenome sequences in predicted words from 6,000 hours of audio for feature extraction.

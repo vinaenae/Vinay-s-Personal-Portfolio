@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Explorer.AI'
 cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
+  - Python
+  - Flask
   - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - OpenAI
+  - Supabase
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+AI-based, custom travel itinerary generator with user authentication, email verification, & two-way communication, tailooring detailed travel plans for each individual user. Saves user history & authenticates users, using past searches to effect future results.
