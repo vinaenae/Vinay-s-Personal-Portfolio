@@ -4,7 +4,7 @@ title: 'Software Engineering Intern'
 company: 'Pacific Northwest National Labs'
 location: 'West Lafayette, IN'
 range: 'August 2023 - Present'
-url: 'https://us.mullenlowe.com/'
+url: 'https://projects.the-examples-book.com/projects/advanced-analytics-for-x-ray-images/'
 ---
 
 - Architected a state-of-the-art autoencoder using PyTorch for x-ray analysis with US border patrol.

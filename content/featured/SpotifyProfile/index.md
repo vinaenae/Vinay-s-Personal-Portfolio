@@ -2,8 +2,8 @@
 date: '2'
 title: 'Explorer.AI'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/vingupta22/Explorer.AI'
+external: 'https://devpost.com/software/explorer-ai'
 tech:
   - Python
   - Flask

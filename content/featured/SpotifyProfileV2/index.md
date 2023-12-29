@@ -2,9 +2,9 @@
 date: '2'
 title: 'ChairCARE'
 cover: './chair.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
-cta: 'your call to action here'
+github: ''
+external: 'https://youtu.be/XVVtSWsN-iU'
+cta: ''
 tech:
   - Indoor Intelligence
   - Transformer Networks

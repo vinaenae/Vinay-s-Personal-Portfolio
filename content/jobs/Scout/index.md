@@ -4,7 +4,7 @@ title: 'Undergraduate Researcher'
 company: 'Purdue FUSION Lab'
 location: 'Purdue University, West Lafayette, IN'
 range: 'September 2023 - Present'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://centers.purdue.edu/fusion-studio/'
 ---
 
 - Working with Professor Rich Dionne to develop a mobile robot capable of interpreting its surroundings on a stage set to navigate intelligently according to the request of the stage director and prevent potential accidents.
