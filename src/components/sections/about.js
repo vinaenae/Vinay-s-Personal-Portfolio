@@ -135,13 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Vinay Devarakonda and I'm a double major in Statistics & Data Science and Mathematics at{' '}
+              Hi! My name is Vinay Devarakonda and I'm a double major in Statistics & Data Science
+              and Mathematics at{' '}
               <a href="https://www.utexas.edu/" target="_blank" rel="noreferrer">
                 The University of Texas at Austin
               </a>
-              , passionate about leveraging technology and analytics to solve real-world problems. 
-              I have experience in research, machine learning, data analytics, and software engineering.
-              I love building impactful solutions, whether in the lab, hackathons, on the tennis court, or my own projects. 
+              , passionate about leveraging technology and analytics to solve real-world problems. I
+              have experience in research, machine learning, data analytics, and software
+              engineering. I love building impactful solutions, whether in the lab, hackathons, on
+              the tennis court, or my own projects.
             </p>
             <p>
               Some organizations I'm involved in at UT austin are Business Analytics Association,
@@ -162,7 +164,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/favicons/vinay.jpg"
+              src="../../images/vinay.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

@@ -18,7 +18,7 @@ It looked something like this:
 
 Sometimes the error message would be slightly more helpful: `Publishing failed. Error message: The response is not a valid JSON response.`
 
-![Publish error](./publish-error.png)
+![Publish error](./publish-error.png)mr
 
 And if I popped open the console, I saw these errors:
 
