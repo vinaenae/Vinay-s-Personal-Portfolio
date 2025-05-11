@@ -1,15 +1,12 @@
 ---
 date: '2'
-title: 'Explorer.AI'
-cover: './demo.png'
-github: 'https://github.com/vingupta22/Explorer.AI'
+title: 'Registration Planning'
+cover: './thing.png'
+github: 'hhttps://github.com/vinaenae/Graphs-Registration-Project.git'
 external: 'https://devpost.com/software/explorer-ai'
 tech:
   - Python
-  - Flask
-  - React
-  - OpenAI
-  - Supabase
+  - Git
 ---
 
-AI-based, custom travel itinerary generator with user authentication, email verification, & two-way communication, tailooring detailed travel plans for each individual user. Saves user history & authenticates users, using past searches to effect future results.
+A comprehensive course registration planning system using graph algorithms and OOP design. It models preqrequisite relationships between university courses as a directed acyclic graph (DAG), allowing validation of course schedules, detection of impossible course plans (cycles), and optimization of semester-bas.

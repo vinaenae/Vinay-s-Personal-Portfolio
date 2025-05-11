@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Vinay Gupta',
+    title: 'Vinay Devarakonda',
     description:
-      'Vinay Gupta is a software engineer who specializes in building unique solutions with machine learning and systems.',
+      'Vinay Devarakonda is a AI/ML Engineer who builds data-driven tools with real impact.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/VD.png',
       },
     },
     `gatsby-plugin-offline`,

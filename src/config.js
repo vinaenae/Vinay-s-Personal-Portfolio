@@ -1,14 +1,13 @@
 module.exports = {
-  email: 'vguptax1@gmail.com',
-
+  email: 'vinaydev@utexas.edu',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/vingupta22',
+      url: 'https://github.com/vinaenae',
     },
     {
       name: 'Linkedin',
-      url: 'https://linkedin.com/in/vinay-gupta-',
+      url: 'https://www.linkedin.com/in/vinay-devarakonda-278015257/'
     },
   ],
 

@@ -1,14 +1,14 @@
 ---
 date: '1'
-title: 'Maximum Entropy Deep Inverse Reinforcement Learning for Human Social Navigation'
-cover: './halcyon.png'
-github: 'https://dagshub.com/ML-Purdue/hackathonf23-Stacks'
-external: 'https://drive.google.com/file/d/1Ud4husXegrcooQWrjyjaH6UPsevW_7Su/view'
+title: 'kNN Imputation and Ensemble ML for Energy Usage Prediction'
+cover: './hackathon.png'
+github: 'https://github.com/vinaenae/Hydraulic-Fracturing-AI-Hackathon.git'
+external: 'https://www.pge.utexas.edu/pge-news/'
 tech:
-  - Deep Learning
-  - TensorFlow
-  - MLFlow
-  - DVC
+  - Data Analysis
+  - kNN Imputation
+  - ML Models
+  - Cross-Validation
 ---
 
-Blindly reproduced a Maximum Entropy Deep Learning model for Human Social Navigation in TensorFlow with trajectories accurate within 0.5 meters, and connducted five in-depth ablation studies to understand the impact of various model components like learning rate, state dimensions, and network layers. Received second place at the ML@Purdue X DagsHub ML Hackathon.
+Predicted energy usage for hydraulic fracturing efforts from ExxonMobil data alongside PhD students by preprocessing, addressing missing values through kNN imputation, and validating results. Then, we applied Random Forest and XGBoost to achieve highest validation while leveraging unsupervised KMeans clustering to enhance prediction accuracy. Quantified uncertainty via boostrapping and Gaussian noise.

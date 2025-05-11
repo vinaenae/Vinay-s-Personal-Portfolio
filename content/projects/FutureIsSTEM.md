@@ -11,4 +11,4 @@ company: 'Harvard'
 showInProjects: true
 ---
 
-#1 New-Release in Scientific Research, #1 Trending in Science for Kids (Amazon Books) with 4+ star rating.
+#1 Trending in Scientific Research, #1 Trending in Science for Kids (Amazon Books) with 4+ star rating.

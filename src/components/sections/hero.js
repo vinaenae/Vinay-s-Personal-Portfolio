@@ -60,20 +60,19 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Vinay Gupta.</h2>;
-  const three = <h3 className="big-heading">I innovate using AI & systems.</h3>;
+  const two = <h2 className="big-heading">Vinay Devarakonda.</h2>;
+  const three = <h3 className="big-heading">Building data-driven tools with real impact.</h3>;
   const four = (
     <>
       <p>
-        Hello! My name is Vinay and I enjoy building unique solutions using machine learning and
-        systems. Beyond that, finding ways to amplify my knowledge into real, applicable work is
-        what satisfies me the most.
+        Hello, I'm Vinay! I'm drawn to the way data, math, and code can work together to solve complex problems. 
+        Whether it's AI or statistics, I love digging into systems that make the world a bit smarter.
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="https://a.co/d/a3CTcX7" target="_blank" rel="noreferrer">
-      Check out my book!
+    <a className="email-link" href="https://medium.com/the-code-room" target="_blank" rel="noreferrer">
+      Check out my tech blogs!
     </a>
   );
 
