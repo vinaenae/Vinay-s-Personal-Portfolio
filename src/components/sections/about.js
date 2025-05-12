@@ -165,7 +165,7 @@ const About = () => {
             <StaticImage
               className="img"
               src="../../images/vinay.jpg"
-              width={200}
+              width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
