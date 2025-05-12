@@ -140,10 +140,11 @@ const About = () => {
               <a href="https://www.utexas.edu/" target="_blank" rel="noreferrer">
                 The University of Texas at Austin
               </a>
-              , passionate about leveraging technology and analytics to solve real-world problems. I
-              have experience in research, machine learning, data analytics, and software
-              engineering. I love building impactful solutions, whether in the lab, hackathons, on
-              the tennis court, or my own projects.
+              , pursuing a Certificate in Programming and Computation. I'm passionate about
+              leveraging technology and analytics to solve real-world problems, with experience in
+              research, machine learning, data analytics, and software engineering. I love building
+              impactful solutions—whether in the lab, at hackathons, on the tennis court, or through
+              personal prokects.
             </p>
             <p>
               Some organizations I'm involved in at UT austin are Business Analytics Association,
