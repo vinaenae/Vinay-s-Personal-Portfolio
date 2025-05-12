@@ -144,7 +144,7 @@ const About = () => {
               leveraging technology and analytics to solve real-world problems, with experience in
               research, machine learning, data analytics, and software engineering. I love building
               impactful solutions—whether in the lab, at hackathons, on the tennis court, or through
-              personal prokects.
+              personal projects.
             </p>
             <p>
               Some organizations I'm involved in at UT austin are Business Analytics Association,
